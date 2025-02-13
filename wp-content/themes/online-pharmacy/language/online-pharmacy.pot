@@ -1,0 +1,923 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Online Pharmacy\n"
+"Last-Translator: \n"
+"Language-Team: ThemesPride <support@themespride.com>\n"
+"Language: English\n"
+"MIME-Version: 0.1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 0.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: 404.php:14
+msgid 'Oops! That page can&rsquo;t be found.'
+msgstr ""
+
+#: 404.php:16
+msgid 'It looks like nothing was found at this location. Maybe try a search?'
+msgstr ""
+
+#: comments.php:29
+msgid 'One Reply to &ldquo;%s&rdquo;'
+msgid 'comments title'
+msgstr ""
+
+#: comments.php:38
+msgid 'comments title'
+msgstr ""
+
+#: comments.php:60
+msgid 'Previous'
+msgstr ""
+
+#: comments.php:61
+msgid 'Next'
+msgstr ""
+
+#: comments.php:69
+msgid 'Comments are closed.'
+msgstr ""
+
+#: functions.php:27
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:190
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:192 functions.php:212
+msgid ""
+"Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: functions.php:200
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:202
+msgid "Add widgets here to appear in your sidebar on pages."
+msgstr ""
+
+#: functions.php:210
+msgid "Sidebar 3"
+msgstr ""
+
+#: functions.php:220
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:222 functions.php:232 functions.php:242 functions.php:252
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: functions.php:230
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:240
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:250
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:508
+msgid "https://www.themespride.com/themes/free-pharmacy-wordpress-theme"
+msgstr ""
+
+#. 1: welcome page link starting html tag, 2: welcome page link ending html tag.
+#: functions.php:544
+#, php-format
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr ""
+
+#: functions.php:548
+msgid "Click here to get started with the theme set-up."
+msgstr ""
+
+#: functions.php:550
+msgid "Get started"
+msgstr ""
+
+#: archive.php:53
+#: archive.php:91
+#: archive.php:128
+#: archive.php:165
+#: archive.php:204
+#: archive.php:243
+#: archive.php:281
+#: index.php:44
+#: index.php:82
+#: index.php:119
+#: index.php:156
+#: index.php:195
+#: index.php:234
+#: index.php:272
+#: search.php:53
+#: search.php:93
+#: search.php:132
+#: search.php:171
+#: search.php:211
+#: search.php:252
+#: search.php:290
+#: single.php:29
+#: single.php:54
+#: single.php:78
+#: single.php:102
+#: single.php:128
+#: single.php:154
+#: single.php:179
+msgid  'Previous page'
+msgstr ""
+
+#: archive.php:55
+#: archive.php:93
+#: archive.php:130
+#: archive.php:167
+#: archive.php:206
+#: archive.php:245
+#: archive.php:283
+#: index.php:46
+#: index.php:84
+#: index.php:121
+#: index.php:158
+#: index.php:197
+#: index.php:236
+#: index.php:274
+#: search.php:55
+#: search.php:95
+#: search.php:134
+#: search.php:173
+#: search.php:213
+#: search.php:254
+#: search.php:292
+#: single.php:31
+#: single.php:56
+#: single.php:80
+#: single.php:104
+#: single.php:130
+#: single.php:156
+#: single.php:18
+msgid 'Next page'
+msgstr ""
+
+#: archive.php:55
+#: archive.php:93
+#: archive.php:130
+#: archive.php:167
+#: archive.php:206
+#: archive.php:245
+#: archive.php:283
+#: index.php:46
+#: index.php:84
+#: index.php:121
+#: index.php:158
+#: index.php:197
+#: index.php:236
+#: index.php:274
+#: search.php:55
+#: search.php:95
+#: search.php:134
+#: search.php:173
+#: search.php:213
+#: search.php:254
+#: search.php:292
+#: single.php:31
+#: single.php:56
+#: single.php:80
+#: single.php:104
+#: single.php:130
+#: single.php:156
+#: single.php:181
+msgid 'Page'
+msgstr ""
+
+#: searchform.php:13
+msgid 'Search &hellip'
+msgid 'placeholder'
+msgstr ""
+
+#: searchform.php:14
+msgid 'Search'
+msgid 'submit button'
+msgstr ""
+
+#: search.php:15
+msgid 'Search Results for: %s'
+msgstr ""
+
+#: search.php:17
+#: template-parts/post/content-none.php:13
+msgid 'Nothing Found'
+msgstr ""
+
+#: search.php:42
+#: search.php:82
+#: search.php:121
+#: search.php:160
+#: search.php:201
+#: search.php:241
+msgid 'Sorry, but nothing matched your search terms. Please try again with some different keywords.'
+msgstr ""
+
+#: inc/custom-header.php:31
+msgid 'Default Header Image'
+msgstr ""
+
+#: customizer.php:31
+msgid "Custom Home page"
+msgstr ""
+
+#: customizer.php:32
+msgid "Description of what this panel does."
+msgstr ""
+
+#: customizer.php:36
+msgid "Mobile Responsive media"
+msgstr ""
+
+#: customizer.php:37
+msgid "Control will not function if the toggle in the main settings is off."
+msgstr ""
+
+#: customizer.php:48
+msgid "Show / Hide Return to header"
+msgstr ""
+
+#: customizer.php:60 customizer.php:962
+msgid "Show / Hide Slider Button"
+msgstr ""
+
+#: customizer.php:71 customizer.php:471
+msgid "Show / Hide Related Post"
+msgstr ""
+
+#: customizer.php:79
+msgid "TP General Option"
+msgstr ""
+
+#: customizer.php:90
+msgid "Body Layout Setting"
+msgstr ""
+
+#: customizer.php:91
+msgid ""
+"This option work for complete body, if you want to set the complete website "
+"in container."
+msgstr ""
+
+#: customizer.php:94 customizer.php:111 customizer.php:130 customizer.php:146
+msgid "Full"
+msgstr ""
+
+#: customizer.php:95
+msgid "Container"
+msgstr ""
+
+#: customizer.php:96
+msgid "Container Fluid"
+msgstr ""
+
+#: customizer.php:107
+msgid "Post Sidebar Position"
+msgstr ""
+
+#: customizer.php:108
+msgid ""
+"This option work for blog page, blog single page, archive page and search "
+"page."
+msgstr ""
+
+#: customizer.php:112 customizer.php:131 customizer.php:147 
+#: customizer.php:1168 customizer.php:1310
+msgid "Left"
+msgstr ""
+
+#: customizer.php:113 customizer.php:132 customizer.php:148 
+#: customizer.php:1167 customizer.php:1311
+msgid "Right"
+msgstr ""
+
+#: customizer.php:114
+msgid "Three Columns"
+msgstr ""
+
+#: customizer.php:115
+msgid "Four Columns"
+msgstr ""
+
+#: customizer.php:116
+msgid "Grid Layout"
+msgstr ""
+
+#: customizer.php:126
+msgid "Single Post Sidebar Position"
+msgstr ""
+
+#: customizer.php:127
+msgid "This option work for single blog page"
+msgstr ""
+
+#: customizer.php:142
+msgid "Page Sidebar Position"
+msgstr ""
+
+#: customizer.php:143
+msgid "This option work for pages."
+msgstr ""
+
+#: customizer.php:157
+msgid "Show / Hide Sticky Header"
+msgstr ""
+
+#: customizer.php:259
+msgid "TP Typography Option"
+msgstr ""
+
+#: customizer.php:271
+msgid "heading Fonts"
+msgstr ""
+
+#: customizer.php:283
+msgid "Body Fonts"
+msgstr ""
+
+#: customizer.php:290
+msgid "Menu Typography"
+msgstr ""
+
+#: customizer.php:302
+msgid "Menu Fonts"
+msgstr ""
+
+#: customizer.php:313
+msgid "Font Weight"
+msgstr ""
+
+#: customizer.php:317
+msgid "100"
+msgstr ""
+
+#: customizer.php:318
+msgid "200"
+msgstr ""
+
+#: customizer.php:319
+msgid "300"
+msgstr ""
+
+#: customizer.php:320
+msgid "400"
+msgstr ""
+
+#: customizer.php:321
+msgid "500"
+msgstr ""
+
+#: customizer.php:322
+msgid "600"
+msgstr ""
+
+#: customizer.php:323
+msgid "700"
+msgstr ""
+
+#: customizer.php:324
+msgid "800"
+msgstr ""
+
+#: customizer.php:325
+msgid "900"
+msgstr ""
+
+#: customizer.php:335
+msgid "Menu Text Transform"
+msgstr ""
+
+#: customizer.php:338
+msgid "Uppercase"
+msgstr ""
+
+#: customizer.php:339
+msgid "Lowercase"
+msgstr ""
+
+#: customizer.php:340
+msgid "Capitalize"
+msgstr ""
+
+#: customizer.php:350
+msgid "Font Size"
+msgstr ""
+
+#: customizer.php:360
+msgid "TP Blog Option"
+msgstr ""
+
+#: customizer.php:370
+msgid "Meta Order"
+msgstr ""
+
+#: customizer.php:371
+msgid ""
+"Drag & Drop post items to re-arrange the order and also hide and show items "
+"as per the need by clicking on the eye icon."
+msgstr ""
+
+#: customizer.php:374
+msgid "date"
+msgstr ""
+
+#: customizer.php:375
+msgid "author"
+msgstr ""
+
+#: customizer.php:376
+msgid "comment"
+msgstr ""
+
+#: customizer.php:377
+msgid "category"
+msgstr ""
+
+#: customizer.php:388
+msgid "Edit Excerpt Limit"
+msgstr ""
+
+#: customizer.php:398
+msgid "Read More"
+msgstr ""
+
+#: customizer.php:402
+msgid "Edit Button Text"
+msgstr ""
+
+#: customizer.php:412
+msgid "Show / Hide Read More Button"
+msgstr ""
+
+#: customizer.php:427
+msgid "Show / Hide Tags Option"
+msgstr ""
+
+#: customizer.php:442
+msgid "Show / Hide Category Option"
+msgstr ""
+
+#: customizer.php:458
+msgid "Show / Hide Comment Form"
+msgstr ""
+
+#: customizer.php:478
+msgid "Related Posts"
+msgstr ""
+
+#: customizer.php:482
+msgid "Related Posts Title"
+msgstr ""
+
+#: customizer.php:495
+msgid "Related Post Per Page"
+msgstr ""
+
+#: customizer.php:513
+msgid "Related Post Per Row"
+msgstr ""
+
+#: customizer.php:529
+msgid "Post Layout"
+msgstr ""
+
+#: customizer.php:530
+msgid ""
+"Control Works only for full,left and right sidebar position in archieve posts"
+msgstr ""
+
+#: customizer.php:533
+msgid "Media-Content"
+msgstr ""
+
+#: customizer.php:534
+msgid "Content-Media"
+msgstr ""
+
+#: customizer.php:540
+msgid "TP Color Option"
+msgstr ""
+
+#: customizer.php:550 customizer.php:561
+msgid "Theme Color"
+msgstr ""
+
+#: customizer.php:551 customizer.php:562
+msgid "It will change the complete theme color in one click."
+msgstr ""
+
+#: customizer.php:569
+msgid "TP Preloader Option"
+msgstr ""
+
+#: customizer.php:580
+msgid "Show / Hide Preloader Option"
+msgstr ""
+
+#: customizer.php:591
+msgid "Preloader First Ring Color"
+msgstr ""
+
+#: customizer.php:592
+msgid "It will change the complete theme preloader ring 1 color in one click."
+msgstr ""
+
+#: customizer.php:602
+msgid "Preloader Second Ring Color"
+msgstr ""
+
+#: customizer.php:603
+msgid "It will change the complete theme preloader ring 2 color in one click."
+msgstr ""
+
+#: customizer.php:613
+msgid "Preloader Background Color"
+msgstr ""
+
+#: customizer.php:614
+msgid "It will change the complete theme preloader bg color in one click."
+msgstr ""
+
+#: customizer.php:622
+msgid "Contact Details"
+msgstr ""
+
+#: customizer.php:624
+msgid "Add your contact details"
+msgstr ""
+
+#: customizer.php:633 customizer.php:978
+msgid "Add Phone Number"
+msgstr ""
+
+#: customizer.php:644
+msgid "Phone Icon"
+msgstr ""
+
+#: customizer.php:660
+msgid "Add Email Address"
+msgstr ""
+
+#: customizer.php:671
+msgid "Mail Icon"
+msgstr ""
+
+#: customizer.php:682
+msgid "Add My Account Page Link"
+msgstr ""
+
+#: customizer.php:692
+msgid "Add Header Button Text"
+msgstr ""
+
+#: customizer.php:702
+msgid "Add Header Page Link"
+msgstr ""
+
+#: customizer.php:713
+msgid " show Shopping Bag"
+msgstr ""
+
+#: customizer.php:721
+msgid "Social Media Links"
+msgstr ""
+
+#: customizer.php:723
+msgid "Add your Social Links"
+msgstr ""
+
+#: customizer.php:733 customizer.php:770 customizer.php:803 customizer.php:837 
+#: customizer.php:871
+msgid "Open in new tab"
+msgstr ""
+
+#: customizer.php:744
+msgid "Facebook Link"
+msgstr ""
+
+#: customizer.php:754
+msgid "Facebook Icon"
+msgstr ""
+
+#: customizer.php:781
+msgid "Twitter Link"
+msgstr ""
+
+#: customizer.php:791
+msgid "Twitter Icon"
+msgstr ""
+
+#: customizer.php:814
+msgid "Instagram Link"
+msgstr ""
+
+#: customizer.php:825
+msgid "Instagram Icon"
+msgstr ""
+
+#: customizer.php:848
+msgid "YouTube Link"
+msgstr ""
+
+#: customizer.php:859
+msgid "YouTube Icon"
+msgstr ""
+
+#: customizer.php:882
+msgid "Pinterest Link"
+msgstr ""
+
+#: customizer.php:893
+msgid "Pinterest Icon"
+msgstr ""
+
+#: customizer.php:904
+msgid "Social Icons Font Size in PX"
+msgstr ""
+
+#: customizer.php:916
+msgid "Slider Section"
+msgstr ""
+
+#: customizer.php:928
+msgid "Show / Hide Slider"
+msgstr ""
+
+#: customizer.php:947
+msgid "Select Slide Image Page"
+msgstr ""
+
+#: customizer.php:949
+msgid "Image Size ( 1835 x 700 ) px"
+msgstr ""
+
+#: customizer.php:991
+msgid "Slider Content Layout"
+msgstr ""
+
+#: customizer.php:994
+msgid "CENTER-ALIGN"
+msgstr ""
+
+#: customizer.php:995
+msgid "LEFT-ALIGN"
+msgstr ""
+
+#: customizer.php:996
+msgid "RIGHT-ALIGN"
+msgstr ""
+
+#: customizer.php:1003
+msgid "Product Section"
+msgstr ""
+
+#: customizer.php:1014
+msgid "Show / Hide Product Section"
+msgstr ""
+
+#: customizer.php:1025
+msgid "Add Heading"
+msgstr ""
+
+#: customizer.php:1059
+msgid "Select Product Category"
+msgstr ""
+
+#: customizer.php:1065
+msgid "Footer Text"
+msgstr ""
+
+#: customizer.php:1067
+msgid "Add copyright text."
+msgstr ""
+
+#: customizer.php:1076 customizer.php:1123
+msgid "Footer Widget Background Image"
+msgstr ""
+
+#: customizer.php:1085
+msgid "Copyright Text"
+msgstr ""
+
+#: customizer.php:1096
+msgid "Footer Widget Columns"
+msgstr ""
+
+#: customizer.php:1113
+msgid "It will change the complete theme hover link color in one click."
+msgstr ""
+
+#: customizer.php:1138
+msgid "Show / Hide Return to Header"
+msgstr ""
+
+#: customizer.php:1150
+msgid "Scroll to top Icon"
+msgstr ""
+
+#: customizer.php:1163
+msgid "Scroll to top Position"
+msgstr ""
+
+#: customizer.php:1164
+msgid "This option work for scroll to top"
+msgstr ""
+
+#: customizer.php:1169
+msgid "Center"
+msgstr ""
+
+#: customizer.php:1191
+msgid "Show / Hide Site Title"
+msgstr ""
+
+#: customizer.php:1203
+msgid "Site Title Font Size in PX"
+msgstr ""
+
+#: customizer.php:1220
+msgid "Show / Hide Tagline"
+msgstr ""
+
+#: customizer.php:1232
+msgid "Site Tagline Font Size in PX"
+msgstr ""
+
+#: customizer.php:1248
+msgid "Here You Can Customize Your Logo Size"
+msgstr ""
+
+#: customizer.php:1259
+msgid "Logo Layout Settings"
+msgstr ""
+
+#: customizer.php:1260
+msgid ""
+"Here you have two options 1. Logo and Site tite in differnt line. 2. Logo "
+"and Site title in same line."
+msgstr ""
+
+#: customizer.php:1263
+msgid "Different Line"
+msgstr ""
+
+#: customizer.php:1264
+msgid "Same Line"
+msgstr ""
+
+#: customizer.php:1273
+msgid "Product Per Row"
+msgstr ""
+
+#: customizer.php:1283
+msgid "Product Per Page"
+msgstr ""
+
+#: customizer.php:1294
+msgid "Show / Hide Shop Page Sidebar"
+msgstr ""
+
+#: customizer.php:1306
+msgid "Sale Badge Position"
+msgstr ""
+
+#: customizer.php:1307
+msgid "This option work for Archieve Products"
+msgstr ""
+
+#: customizer.php:1321
+msgid "Show / Hide Product Page Sidebar"
+msgstr ""
+
+#: customizer.php:1333
+msgid "Show / Hide related product"
+msgstr ""
+
+#: customizer.php:1341
+msgid "404 Page"
+msgstr ""
+
+#: customizer.php:1345
+msgid "Oops! That page cant be found."
+msgstr ""
+
+#: customizer.php:1349
+msgid "Edit Title"
+msgstr ""
+
+#: customizer.php:1354
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: customizer.php:1358
+msgid "Edit Text"
+msgstr ""
+
+#: customizer.php:1392
+msgid "Online Pharmacy Pro"
+msgstr ""
+
+#: customizer.php:1477
+msgid "Upgrade Pro"
+msgstr ""
+
+#: customizer.php:1490
+msgid "Theme Documentation"
+msgstr ""
+
+#: customizer.php:1491
+msgid "Click Here"
+msgstr ""
+
+#: about.php:43
+msgid "Play Now"
+msgstr ""
+
+#: slider.php:46
+msgid "Join Our Club"
+msgstr ""
+
+#: slider.php:60
+msgid "Previous"
+msgstr ""
+
+#: slider.php:64
+msgid "Next"
+msgstr ""
+
+#: site-info.php:12
+msgid "By Themespride"
+msgstr ""
+
+#: template-parts/page/content-page.php:20
+msgid 'Pages'
+msgstr ""
+
+#: template-parts/post/content-grid.php:23
+#: template-parts/post/single-post.php:15
+#: template-parts/post/content-audio.php:40
+#: template-parts/post/content-gallery.php:28
+#: template-parts/post/content-image.php:24
+#: template-parts/post/content-video.php:38
+#: template-parts/post/content.php:24
+msgid '0 Comments'
+msgstr ""
+
+#: template-parts/post/content-grid.php:23
+#: template-parts/post/single-post.php:15
+#: template-parts/post/content-audio.php:40
+#: template-parts/post/content-gallery.php:28
+#: template-parts/post/content-image.php:24
+#: template-parts/post/content-video.php:38
+#: template-parts/post/content.php:24
+msgid '% Comments'
+msgstr ""
+
+#: template-parts/post/content-grid.php:27
+#: template-parts/post/content-audio.php:44
+#: template-parts/post/content-gallery.php:32
+#: template-parts/post/content-image.php:28
+#: template-parts/post/content-video.php:42
+#: template-parts/post/content.php:28
+msgid 'Read More'
+msgstr ""
+
+#: template-parts/post/content-none.php:19
+msgid 'Ready to publish your first post'
+msgstr ""
+
+#: template-parts/post/content-none.php:23
+msgid 'It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.'
+msgstr ""
+
+#: template-parts/post/single-post.php:33
+msgid 'Parent post link'
+msgstr ""
+
+#: template-parts/post/single-post.php:38
+msgid 'Next:'
+msgstr ""
+
+#: template-parts/post/single-post.php:40
+msgid 'Previous:'
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid 'You must be logged in to checkout.'
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid 'Your order'
+msgstr ""
